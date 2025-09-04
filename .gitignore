@@ -29,6 +29,7 @@ client/.env
 client/dist/
 client/.vite/
 client/.cache/
+server/src/uploads/
 server/uploads/
 server/*.sqlite
 
